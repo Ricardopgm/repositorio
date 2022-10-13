@@ -1,0 +1,38 @@
+
+
+body{
+    background-image: url(fundojava.gif) ;
+    background-size: cover;
+    }
+    h1{
+        color: aliceblue;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+
+        
+    } 
+     .container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 90px;
+    }
+    .input1{
+        width: 20pc;
+        height: 20pc;
+    }
+    .input2{
+width: 20pc;
+height: 20pc;
+    }
+  .botao{
+    padding: 10px 8px;
+
+  }
+  .escolha{
+    padding: 10px 8px;
+  }
