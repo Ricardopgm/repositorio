@@ -1,0 +1,89 @@
+{
+    "livros":[
+{
+    "id":1 ,
+"nome": "a força do habito.",
+"descriçao": "408 paginas dividido em 3 partes.",
+"preço": "R$10,50",
+"categoria_id": 1
+
+
+
+}, 
+
+    { 
+         "id": 2,
+    "nome": "inglês para falar qualquer situação",
+    "descriçao":"118 paginas dividido em 2 partes",
+    "preço":"R$18,50",
+    "categoria_id": 2
+    },
+    
+    {
+
+    "id": 3,
+    "nome": "antes de partir",
+    "descriçao":"322 paginas dividido em 5 partes",
+    "preço": "R$45,23",
+    "categoria_id": 2
+},
+      
+{
+
+    "id": 4,
+    "nome": "o pequeno principe preto",
+    "descriçao":"32 paginas dividido em 1 parte",
+    "preço": "R$24,00",
+    "categoria_id": 1
+},
+      
+{
+
+    "id": 5,
+    "nome": "as aventuras de mike",
+    "descriçao":"144 paginas dividido em 2 partes",
+    "preço": "R$80,22",
+    "categoria_id": 1
+},
+
+{
+
+    "id": 6,
+    "nome": "o poder do agora ",
+    "descriçao":"224 paginas dividio em 3 partes",
+    "preço": "R$33,99",
+    "categoria_id": 2
+},
+{
+
+    "id": 7,
+    "nome": "harry potter e a pedra filosofal",
+    "descriçao":"204 paginas dividio em 4 partes",
+    "preço": "R$27,99",
+    "categoria_id": 1
+},
+
+{
+
+    "id": 8,
+    "nome": "a historia do mundo pra quem tem pressa",
+    "descriçao":"200 páginas dividido em 4 partes ",
+    "preço": "R$77,77",
+    "categoria_id": 2
+}
+
+
+],
+
+
+"categorias":[{
+    "id": 1,
+    "nome": "livros usados"
+},
+{
+    "id":2,
+    "nome":"livros novos"
+        }
+    ]
+    
+}
